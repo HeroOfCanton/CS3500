@@ -1,0 +1,5 @@
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS9\Resources\bin\Debug\Resources.dll.config
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS9\Resources\bin\Debug\Resources.dll
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS9\Resources\bin\Debug\Resources.pdb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS9\Resources\obj\Debug\Resources.dll
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS9\Resources\obj\Debug\Resources.pdb

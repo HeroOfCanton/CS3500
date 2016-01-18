@@ -1,0 +1,8 @@
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS3\PS3GradingTests\bin\Debug\PS3GradingTests.dll
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS3\PS3GradingTests\bin\Debug\PS3GradingTests.pdb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS3\PS3GradingTests\bin\Debug\Formula.dll
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS3\PS3GradingTests\bin\Debug\Formula.pdb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS3\PS3GradingTests\bin\Debug\Formula.xml
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS3\PS3GradingTests\obj\Debug\PS3GradingTests.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS3\PS3GradingTests\obj\Debug\PS3GradingTests.dll
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS3\PS3GradingTests\obj\Debug\PS3GradingTests.pdb

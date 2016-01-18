@@ -1,0 +1,10 @@
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS10\BoggleServer\bin\Debug\BoggleServer.exe.config
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS10\BoggleServer\bin\Debug\BoggleServer.exe
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS10\BoggleServer\bin\Debug\BoggleServer.pdb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS10\BoggleServer\bin\Debug\BoggleClient.exe
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS10\BoggleServer\bin\Debug\MySql.Data.dll
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS10\BoggleServer\bin\Debug\StringSocketOfficial.dll
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS10\BoggleServer\bin\Debug\BoggleClient.pdb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS10\BoggleServer\obj\Debug\BoggleServer.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS10\BoggleServer\obj\Debug\BoggleServer.exe
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS10\BoggleServer\obj\Debug\BoggleServer.pdb

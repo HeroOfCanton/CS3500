@@ -1,0 +1,5 @@
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS6\PanelGUITesting\bin\Debug\PanelGUITesting.dll
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS6\PanelGUITesting\bin\Debug\PanelGUITesting.pdb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS6\PanelGUITesting\obj\Debug\PanelGUITesting.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS6\PanelGUITesting\obj\Debug\PanelGUITesting.dll
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS6\PanelGUITesting\obj\Debug\PanelGUITesting.pdb

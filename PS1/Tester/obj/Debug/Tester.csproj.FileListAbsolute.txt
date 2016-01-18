@@ -1,0 +1,10 @@
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS1\Tester\bin\Debug\Tester.exe.config
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS1\Tester\bin\Debug\Tester.XML
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS1\Tester\bin\Debug\Tester.exe
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS1\Tester\bin\Debug\Tester.pdb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS1\Tester\bin\Debug\FormulaEvaluator.dll
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS1\Tester\bin\Debug\FormulaEvaluator.pdb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS1\Tester\bin\Debug\FormulaEvaluator.xml
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS1\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS1\Tester\obj\Debug\Tester.exe
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS1\Tester\obj\Debug\Tester.pdb

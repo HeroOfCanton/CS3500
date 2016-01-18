@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FormulaEvaluator</name>
+    </assembly>
+    <members>
+        <member name="T:FormulaEvaluator.Evaluator">
+            <summary>
+            This is an in-fix calculator.  It will respect basic orders of operations, meaning, Parens -> Multiply / Divide -> Add / Subtract.
+            
+            Will throw exceptions under the following circumstances:
+            - If the value stack has less than 2 items and there is an operation attempted on the values
+            - If the closing or opening parenthesis is missing
+            - If variables start with numerics
+            - If, after all tokens have been processed, there are too many values left in the stack 
+              or the last operation in the stack is not + or -
+              
+            The only legal tokens are the four operator symbols (+ - * /), left parentheses, right parentheses, 
+            non-negative integers, whitespace, and variables consisting of one or more letters followed by one or more digits. 
+            
+            </summary>
+        </member>
+    </members>
+</doc>

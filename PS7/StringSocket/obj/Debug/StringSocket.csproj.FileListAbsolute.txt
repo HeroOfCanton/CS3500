@@ -1,0 +1,5 @@
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS7\StringSocket\bin\Debug\StringSocket.dll
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS7\StringSocket\bin\Debug\StringSocket.pdb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS7\StringSocket\obj\Debug\StringSocket.dll
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS7\StringSocket\obj\Debug\StringSocket.pdb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS7\StringSocket\obj\Debug\StringSocket.csprojResolveAssemblyReference.cache

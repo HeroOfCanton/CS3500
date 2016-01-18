@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DependencyTest</name>
+    </assembly>
+    <members>
+        <member name="T:PS2GradingTests.DependencyGraphTest">
+             <summary>
+              This is a test class for DependencyGraphTest
+             
+              These tests should help guide you on your implementation.  Warning: you can not "test" yourself
+              into correctness.  Tests only show incorrectness.  That being said, a large test suite will go a long
+              way toward ensuring correctness.
+             
+              You are strongly encouraged to write additional tests as you think about the required
+              functionality of yoru library.
+             
+            </summary>
+        </member>
+        <member name="M:PS2GradingTests.DependencyGraphTest.EmptyTest1">
+             <summary>
+            Empty graph should contain nothing
+            </summary>
+        </member>
+        <member name="M:PS2GradingTests.DependencyGraphTest.EmptyTest2">
+             <summary>
+            Empty graph should contain nothing
+            </summary>
+        </member>
+        <member name="M:PS2GradingTests.DependencyGraphTest.EmptyTest3">
+             <summary>
+            Empty graph should contain nothing
+            </summary>
+        </member>
+        <member name="M:PS2GradingTests.DependencyGraphTest.EmptyTest4">
+             <summary>
+            Empty graph should contain nothing
+            </summary>
+        </member>
+        <member name="M:PS2GradingTests.DependencyGraphTest.EmptyTest5">
+             <summary>
+            Empty graph should contain nothing
+            </summary>
+        </member>
+        <member name="M:PS2GradingTests.DependencyGraphTest.EmptyTest6">
+             <summary>
+            Empty graph should contain nothing
+            </summary>
+        </member>
+        <member name="M:PS2GradingTests.DependencyGraphTest.EmptyTest7">
+             <summary>
+            Removing from an empty DG shouldn't fail
+            </summary>
+        </member>
+        <member name="M:PS2GradingTests.DependencyGraphTest.EmptyTest8">
+             <summary>
+            Adding an empty DG shouldn't fail
+            </summary>
+        </member>
+        <member name="M:PS2GradingTests.DependencyGraphTest.EmptyTest9">
+             <summary>
+            Replace on an empty DG shouldn't fail
+            </summary>
+        </member>
+        <member name="M:PS2GradingTests.DependencyGraphTest.EmptyTest10">
+             <summary>
+            Replace on an empty DG shouldn't fail
+            </summary>
+        </member>
+        <member name="M:PS2GradingTests.DependencyGraphTest.NonEmptyTest1">
+             <summary>
+            Non-empty graph contains something
+            </summary>
+        </member>
+        <member name="M:PS2GradingTests.DependencyGraphTest.NonEmptyTest2">
+             <summary>
+            Slight variant
+            </summary>
+        </member>
+        <member name="M:PS2GradingTests.DependencyGraphTest.NonEmptyTest3">
+            <summary>
+            Nonempty graph should contain something
+            </summary>
+        </member>
+        <member name="M:PS2GradingTests.DependencyGraphTest.NonEmptyTest4">
+             <summary>
+            Nonempty graph should contain something
+            </summary>
+        </member>
+        <member name="M:PS2GradingTests.DependencyGraphTest.NonEmptyTest5">
+             <summary>
+            Nonempty graph should contain something
+            </summary>
+        </member>
+        <member name="M:PS2GradingTests.DependencyGraphTest.NonEmptyTest6">
+             <summary>
+            Removing from a DG 
+            </summary>
+        </member>
+        <member name="M:PS2GradingTests.DependencyGraphTest.NonEmptyTest7">
+             <summary>
+            Replace on a DG
+            </summary>
+        </member>
+        <member name="M:PS2GradingTests.DependencyGraphTest.NonEmptyTest8">
+             <summary>
+            Replace on a DG
+            </summary>
+        </member>
+        <member name="M:PS2GradingTests.DependencyGraphTest.StressTest1">
+             <summary>
+            Using lots of data
+            </summary>
+        </member>
+        <member name="M:PS2GradingTests.DependencyGraphTest.StressTest8">
+             <summary>
+            Using lots of data with replacement
+            </summary>
+        </member>
+        <member name="M:PS2GradingTests.DependencyGraphTest.StressTest15">
+             <summary>
+            Using lots of data with replacement
+            </summary>
+        </member>
+        <member name="M:PS2GradingTests.DependencyGraphTest.ReplaceNonExistDependee">
+            <summary>
+            Test replacment of a dependee that doesn't exist
+            </summary>
+        </member>
+        <member name="M:PS2GradingTests.DependencyGraphTest.ReplaceNonExistDependent">
+            <summary>
+            Test replacement of a dependent that doesn't exist
+            </summary>
+        </member>
+        <member name="M:PS2GradingTests.DependencyGraphTest.ReplaceWithSameDependees">
+            <summary>
+            Test replacing dependees with existing dependees
+            </summary>
+        </member>
+        <member name="M:PS2GradingTests.DependencyGraphTest.ReplaceWithSameDependents">
+            <summary>
+            Test replacing dependents with existing dependents
+            </summary>
+        </member>
+    </members>
+</doc>

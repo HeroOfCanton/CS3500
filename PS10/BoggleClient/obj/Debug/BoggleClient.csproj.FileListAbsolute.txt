@@ -1,0 +1,14 @@
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS10\BoggleClient\bin\Debug\BoggleClient.exe.config
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS10\BoggleClient\bin\Debug\BoggleClient.exe
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS10\BoggleClient\bin\Debug\BoggleClient.pdb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS10\BoggleClient\bin\Debug\StringSocketOfficial.dll
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS10\BoggleClient\obj\Debug\BoggleClient.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS10\BoggleClient\obj\Debug\BoggleClientController.baml
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS10\BoggleClient\obj\Debug\BoggleClientController.g.cs
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS10\BoggleClient\obj\Debug\App.g.cs
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS10\BoggleClient\obj\Debug\BoggleClient_MarkupCompile.cache
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS10\BoggleClient\obj\Debug\BoggleClient.g.resources
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS10\BoggleClient\obj\Debug\BoggleClient.Properties.Resources.resources
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS10\BoggleClient\obj\Debug\BoggleClient.csproj.GenerateResource.Cache
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS10\BoggleClient\obj\Debug\BoggleClient.exe
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS10\BoggleClient\obj\Debug\BoggleClient.pdb

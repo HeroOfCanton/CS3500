@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadsheetUtilities", "SpreadsheetUtilities\SpreadsheetUtilities.csproj", "{DF41F6CA-3E8D-410D-A4A6-29B13C5275C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyTest", "DependencyTest\DependencyTest.csproj", "{FBA529A6-E8C1-4497-A1EE-1AF3C22A90BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS2GradingTests", "PS2GradingTests\PS2GradingTests.csproj", "{3D903E5A-8E6C-4FD9-890D-C3727D32F0F0}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF41F6CA-3E8D-410D-A4A6-29B13C5275C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF41F6CA-3E8D-410D-A4A6-29B13C5275C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF41F6CA-3E8D-410D-A4A6-29B13C5275C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF41F6CA-3E8D-410D-A4A6-29B13C5275C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBA529A6-E8C1-4497-A1EE-1AF3C22A90BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA529A6-E8C1-4497-A1EE-1AF3C22A90BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA529A6-E8C1-4497-A1EE-1AF3C22A90BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA529A6-E8C1-4497-A1EE-1AF3C22A90BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D903E5A-8E6C-4FD9-890D-C3727D32F0F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D903E5A-8E6C-4FD9-890D-C3727D32F0F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D903E5A-8E6C-4FD9-890D-C3727D32F0F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D903E5A-8E6C-4FD9-890D-C3727D32F0F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

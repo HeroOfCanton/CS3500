@@ -1,0 +1,46 @@
+﻿<Window x:Class="BoggleClient.BoggleClientController"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="381.482" Width="706.734">
+    <Grid Margin="0,0,2,0">
+        <Label x:Name="labelIPAddress" Content="IP Address" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.237,-0.154"/>
+        <TextBox x:Name="textBoxIPAddress" HorizontalAlignment="Left" Height="23" Margin="81,12,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="localhost"/>
+        <Label x:Name="labelPort" Content="Port" HorizontalAlignment="Left" Margin="238,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxPort" HorizontalAlignment="Left" Height="23" Margin="275,13,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="38" Text="2000"/>
+        <Button x:Name="buttonConnect" Content="Connect" HorizontalAlignment="Left" Margin="126,52,0,0" VerticalAlignment="Top" Width="75" Click="buttonConnect_Click"/>
+        <Button x:Name="buttonDisconnect" Content="Disconnect" HorizontalAlignment="Left" Margin="238,52,0,0" VerticalAlignment="Top" Width="75" Click="buttonDisconnect_Click"/>
+        <Button x:Name="buttonSendCommand" Content="Send Command" HorizontalAlignment="Left" Margin="10,110,0,0" VerticalAlignment="Top" Width="98" Click="buttonSendCommand_Click"/>
+        <TextBox x:Name="textBoxSendCommand" HorizontalAlignment="Left" Height="23" Margin="113,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="PLAY Frodo"/>
+        <Button x:Name="buttonSendWord" Content="Send Word" HorizontalAlignment="Left" Margin="33,173,0,0" VerticalAlignment="Top" Width="75" Click="buttonSendWord_Click"/>
+        <TextBox x:Name="textBoxSendWord" HorizontalAlignment="Left" Height="23" Margin="113,173,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" KeyDown="textBoxSendWord_KeyDown"/>
+        <TextBox x:Name="textBoxMessages" AcceptsReturn="True" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.CanContentScroll="True" HorizontalAlignment="Left" Height="94" Margin="10,235,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="343"/>
+        <Label x:Name="labelMessages" Content="Messages" HorizontalAlignment="Left" Margin="10,209,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="labelOpponent" Content="Opponent:" HorizontalAlignment="Left" Margin="339,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxOpponent" HorizontalAlignment="Left" Height="23" Margin="454,13,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="93"/>
+        <Label x:Name="labelYourScore" Content="Your Score:" HorizontalAlignment="Left" Margin="339,41,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxYourScore" HorizontalAlignment="Left" Height="23" Margin="454,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="52" Text="0"/>
+        <Label x:Name="labelTime" Content="Time:" HorizontalAlignment="Left" Margin="275,108,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxTime" HorizontalAlignment="Left" Height="23" Margin="318,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="45"/>
+        <Grid Margin="390,110,0,99" HorizontalAlignment="Left" Width="96">
+            <Label x:Name="label01" Content="X" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label02" Content="X" HorizontalAlignment="Left" Margin="32,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.588,0.346"/>
+            <Label x:Name="label03" Content="X" HorizontalAlignment="Left" Margin="54,10,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label04" Content="X" HorizontalAlignment="Left" Margin="76,10,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label05" Content="X" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label06" Content="X" HorizontalAlignment="Left" Margin="32,41,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label07" Content="X" HorizontalAlignment="Left" Margin="54,41,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label08" Content="X" HorizontalAlignment="Left" Margin="76,41,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label09" Content="X" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label10" Content="X" HorizontalAlignment="Left" Margin="32,72,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label11" Content="X" HorizontalAlignment="Left" Margin="54,72,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label12" Content="X" HorizontalAlignment="Left" Margin="76,72,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label13" Content="X" HorizontalAlignment="Left" Margin="10,103,0,-5" VerticalAlignment="Top"/>
+            <Label x:Name="label14" Content="X" HorizontalAlignment="Left" Margin="33,103,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label15" Content="X" HorizontalAlignment="Left" Margin="55,103,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label16" Content="X" HorizontalAlignment="Left" Margin="77,103,0,0" VerticalAlignment="Top"/>
+        </Grid>
+        <Label x:Name="labelOpponentScore" Content="Opponent's Score:" HorizontalAlignment="Left" Margin="339,72,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxOpponentScore" HorizontalAlignment="Left" Height="23" Margin="454,75,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="52" Text="0"/>
+
+    </Grid>
+</Window>

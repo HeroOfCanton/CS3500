@@ -1,0 +1,8 @@
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS1\UnitTestProject1\bin\Debug\FormulaEvaluator.dll
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS1\UnitTestProject1\bin\Debug\FormulaEvaluator.pdb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS1\UnitTestProject1\bin\Debug\FormulaEvaluator.xml
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS1\UnitTestProject1\obj\Debug\EvaluatorTest.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\PS1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
